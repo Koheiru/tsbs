@@ -24,6 +24,7 @@ loaders: tsbs_load \
  		 tsbs_load_mongo \
  		 tsbs_load_prometheus \
  		 tsbs_load_siridb \
+ 		 tsbs_load_telegraf \
  		 tsbs_load_timescaledb \
  		 tsbs_load_victoriametrics \
  		 tsbs_load_questdb
